@@ -93,8 +93,8 @@
 
     /**
      * Sets up looseFocus trasfer map
-     * For ex: when on left event, the control should go from navigation to movie grid.
-     * and on right event when user is on movie grid column 0, it should move to navigation
+     * For ex: when on right event, the control should go from navigation to movie grid.
+     * and on left event when user is on movie grid column 0, it should move to navigation
      */
     function setupLooseFocusMap() {
       var tmp = {};

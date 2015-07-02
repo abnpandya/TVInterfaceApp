@@ -14,4 +14,9 @@ With this app I am trying to demonstrate use of various JS patterns to build a s
 - Promise
 - Singleton
 
+See this app working here:
+http://abnpandya.github.io/TVInterfaceApp/
+
+
+
 

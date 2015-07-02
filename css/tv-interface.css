@@ -23,8 +23,11 @@ body {
 	background: #8F0E00;
 	position: fixed;
 	z-index: 1;
+	text-align: center;
 }
-
+#header  h4 {
+	margin-top: 30px;	
+}
 #navigation {
 	width: 26%;
 	height: 100%;

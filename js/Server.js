@@ -8,7 +8,7 @@
 
   var _ = require('_'),
     serverInstance,
-    MAX_DELAY = 1000,   // max server latency
+    MAX_DELAY = 200,   // max server latency
     MAX_DATA_SIZE = 41; // this is because we only have 41 images to render
 
   /**

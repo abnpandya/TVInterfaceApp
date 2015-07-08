@@ -56,7 +56,7 @@
     }
 
     /**
-     * Determines the number of column given elementList has
+     * Determines the number of column in viewport given elementList
      * @param elementList
      * @returns {number}
      */
@@ -81,7 +81,7 @@
 
 
     /**
-     * Sets the navigable on given location active
+     * Sets the navigable active given location
      * @param currentLocation
      */
     function setActive(location) {
